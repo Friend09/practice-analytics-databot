@@ -1,0 +1,6 @@
+[submodule "ref_st_langchain"]
+	path = ref_st_langchain
+	url = https://github.com/alejandro-ao/yt-stream-langchain-streamlit.git
+[submodule "ref_streamlit_demo"]
+	path = ref_streamlit_demo
+	url = https://github.com/pixegami/streamlit-demo-app.git
